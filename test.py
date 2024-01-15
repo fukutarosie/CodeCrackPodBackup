@@ -1,2 +1,2 @@
-name = input("Your Name: ")
-print("hello {0}".format(name))
+print("hello {0}")
+#wa hello
